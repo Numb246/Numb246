@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Numb246
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning to code at a university in VietNam
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on learning code
 - 📫 You can reach me on Face: https://www.facebook.com/profile.php?id=100022172703956
 
 <!---
